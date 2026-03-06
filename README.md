@@ -31,3 +31,8 @@ Use a single project-local virtual environment (`.venv`) for all notebooks in th
 
 1. Copy `.env.example` to `.env`.
 2. Fill the four required values listed above.
+
+## curl quickstart
+
+- Runnable scripts: `examples/curl/README.md`
+- Copy/paste snippets: `docs/curl/README.md`
